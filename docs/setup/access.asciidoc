@@ -8,6 +8,8 @@ The fastest way to access {kib} is to use our hosted {es} Service. If you <<inst
 
 include::{docs-root}/shared/cloud/ess-getting-started.asciidoc[]
 
+That’s it! Now that you are up and running, it’s time to get some data into {kib}. Click *Launch Kibana*.
+
 [float]
 [[log-on-to-the-web-application]]
 === Log on to the web application
